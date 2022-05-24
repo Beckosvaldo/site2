@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+}
+.content{
+    background-image:url("https://img.elo7.com.br/product/zoom/1E7C84B/papel-de-parede-paisagem-montanhas-0004-adesivo-de-parede-decoracao-de-quarto-de-bebe.jpg") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 50vh;
+    padding-top: 50vh;
+    margin: 0; 
+    text-align: center;
+    background-position: center;
+    
+}
+h4 {
+    background-color: brown;
+    border-style: dotted;
+    margin: 0 auto;
+    width: 100px;
+    top: -12px;
+    position: relative;
+}
+h4:hover{
+    cursor: pointer;
+}
+p{
+    background-color: blueviolet;
+    margin-left: 40%;
+    margin-right: 41%;
+}
